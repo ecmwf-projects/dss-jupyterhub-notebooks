@@ -22,3 +22,7 @@ Notebooks which document, with example code, several aspects of the data process
 The C3S training material is also published as a [JupyterBook](https://ecmwf-projects.github.io/copernicus-training-c3s/intro.html). Here we provide direct access to the notebooks so that they can be executed locally.
 
 
+
+## copernicus-training-cams
+
+The CAMS training material is also published as a [JupyterBook](https://ecmwf-projects.github.io/copernicus-training-cams). Here we provide direct access to the notebooks so that they can be executed locally.
