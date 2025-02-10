@@ -4,9 +4,9 @@ Please explore the various libraries of Jupyter Notebooks produced by ECMWF in t
 
 Please note that this is a read-only directory, and should you wish to save any changes you will have to do so in your personal space.
 
-## cads-notebooks
+## dss-notebooks
 
-The cads-notebooks directory contains technical notebooks related to the data available via the Data Store Services (DSS). This library includes two sub-directories:
+The dss-notebooks directory contains technical notebooks related to the data available via the Data Store Services (DSS). This library includes two sub-directories:
 
 ### datasets
 
@@ -26,3 +26,9 @@ The C3S training material is also published as a [JupyterBook](https://ecmwf-pro
 ## copernicus-training-cams
 
 The CAMS training material is also published as a [JupyterBook](https://ecmwf-projects.github.io/copernicus-training-cams). Here we provide direct access to the notebooks so that they can be executed locally.
+
+
+## sketchbook-earth
+
+The [Sketchbook Earth](https://ecmwfcode4earth.github.io/sketchbook-earth/intro.html) provides a series of Jupyter books which document the metrics calculated for the [Climate Intelligence Reports](https://climate.copernicus.eu/climate-intelligence) produced by C3S.
+
