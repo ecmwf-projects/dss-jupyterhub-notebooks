@@ -7,3 +7,6 @@
 [submodule "copernicus-training-cams"]
 	path = copernicus-training-cams
 	url = https://github.com/ecmwf-projects/copernicus-training-cams
+[submodule "sketchbook-earth"]
+	path = sketchbook-earth
+	url = https://github.com/ECMWFCode4Earth/sketchbook-earth.git
