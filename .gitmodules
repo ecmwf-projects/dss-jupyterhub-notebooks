@@ -1,6 +1,6 @@
-[submodule "cads-notebooks"]
+[submodule "dss-notebooks"]
 	path = dss-notebooks
-	url = https://github.com/ecmwf-projects/cads-notebooks
+	url = https://github.com/ecmwf-projects/dss-notebooks
 [submodule "copernicus-training-c3s"]
 	path = copernicus-training-c3s
 	url = https://github.com/ecmwf-projects/copernicus-training-c3s
