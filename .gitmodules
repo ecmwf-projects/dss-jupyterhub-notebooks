@@ -7,3 +7,30 @@
 [submodule "sketchbook-earth"]
 	path = sketchbook-earth
 	url = https://github.com/ECMWFCode4Earth/sketchbook-earth.git
+[submodule "c3s-training/sat-obs-ocean"]
+	path = c3s-training/sat-obs-ocean
+	url = https://github.com/ecmwf-training/c3s-training-submodule-sat-obs-ocean
+[submodule "c3s-training/sat-obs-atmos-comp"]
+	path = c3s-training/sat-obs-atmos-comp
+	url = https://github.com/ecmwf-training/c3s-training-submodule-sat-obs-atmos-comp
+[submodule "c3s-training/climate-indices"]
+	path = c3s-training/climate-indices
+	url = https://github.com/ecmwf-training/c3s-training-submodule-climate-indices
+[submodule "c3s-training/projections"]
+	path = c3s-training/projections
+	url = https://github.com/ecmwf-training/c3s-training-submodule-projections
+[submodule "c3s-training/reanalysis"]
+	path = c3s-training/reanalysis
+	url = https://github.com/ecmwf-training/c3s-training-submodule-reanalysis
+[submodule "c3s-training/sat-obs-atmos-physics"]
+	path = c3s-training/sat-obs-atmos-physics
+	url = https://github.com/ecmwf-training/c3s-training-submodule-sat-obs-atmos-physics
+[submodule "c3s-training/sat-obs-hydro-cryo"]
+	path = c3s-training/sat-obs-hydro-cryo
+	url = https://github.com/ecmwf-training/c3s-training-submodule-sat-obs-hydro-cryo
+[submodule "c3s-training/sat-obs-land"]
+	path = c3s-training/sat-obs-land
+	url = https://github.com/ecmwf-training/c3s-training-submodule-sat-obs-land
+[submodule "c3s-training/seasonal-forecast"]
+	path = c3s-training/seasonal-forecast
+	url = https://github.com/ecmwf-training/c3s-training-submodule-seasonal-forecast

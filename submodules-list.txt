@@ -5,4 +5,4 @@ reanalysis
 sat-obs-atmos-physics
 sat-obs-hydro-cryo
 sat-obs-land
-sat-obs-ocean
+seasonal-forecast
