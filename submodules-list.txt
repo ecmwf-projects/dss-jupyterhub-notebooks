@@ -1,0 +1,8 @@
+sat-obs-atmos-comp
+climate-indices
+projections
+reanalysis
+sat-obs-atmos-physics
+sat-obs-hydro-cryo
+sat-obs-land
+sat-obs-ocean
