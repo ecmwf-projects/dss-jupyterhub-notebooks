@@ -3,7 +3,7 @@
 Please explore the various libraries of Jupyter Notebooks produced by ECMWF in the context of the Copernicus Climate Change Service (C3S), the Copernicus Atmospheric Monitoring Service (CAMS) and the Copernicus Emergency Management Service (CEMS).
 
 > [!WARNING]
-> Please note that this is a read-only directory, and should you wish to save any changes you will have to do so in your personal space.
+> Please note that these notebooks are stored in a read-only directory, and should you wish to save any changes you will have to do so in your personal space.
 
 ## dss-notebooks
 
@@ -20,7 +20,17 @@ Notebooks which document, with example code, several aspects of the data process
 
 ## c3s-training
 
-The C3S training material is also published as a [JupyterBook](https://ecmwf-training.github.io/c3s-training/intro.html). Here we provide direct access to the notebooks so that they can be executed directly.
+The C3S training material is also published as a [JupyterBook](https://ecmwf-training.github.io/c3s-training/intro.html). Here we provide direct access to the notebooks so that they can be executed directly. The training material is organised in sub-modules which group the examples into data themes, the sub-modules included are:
+
+1. **climate-indices** - Climate indicators and indexes
+1. **projections** - Climate projections (CMIP and CORDEX)
+2. **reanalysis** - The ECMWF Reanalysis (ERA) family
+3. **sat-obs-atmos-comp** - Satelliite observations of atmospheric composition
+4. **sat-obs-atmos-physics** - Satelliite observations of atmospheric physics
+5. **sat-obs-hydro-cryo** - Satelliite observations of hydrology and cryosphere
+6. **sat-obs-land** - Satelliite observations of land
+7. **sat-obs-ocean** - Satelliite observations of ocean
+8. **seasonal-forecast** - The ECMWF Seasonal Forecast family
 
 
 
