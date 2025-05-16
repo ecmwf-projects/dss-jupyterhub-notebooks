@@ -7,7 +7,7 @@ Please explore the various libraries of Jupyter Notebooks produced by ECMWF in t
 
 ## dss-notebooks
 
-The dss-notebooks directory contains technical notebooks related to the data available in the Data Store Services (DSS). This library includes two sub-directories:
+The [dss-notebooks](https://github.com/ecmwf-projects/dss-notebooks) directory contains technical notebooks related to the data available in the Data Store Services (DSS). This library includes two sub-directories:
 
 ### datasets
 
