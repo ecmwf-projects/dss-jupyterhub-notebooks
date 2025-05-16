@@ -2,7 +2,7 @@
 	path = dss-notebooks
 	url = https://github.com/ecmwf-projects/dss-notebooks
 [submodule "copernicus-training-cams"]
-	path = copernicus-training-cams
+	path = cams-training
 	url = https://github.com/ecmwf-projects/copernicus-training-cams
 [submodule "sketchbook-earth"]
 	path = sketchbook-earth
