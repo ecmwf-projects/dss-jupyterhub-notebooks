@@ -4,9 +4,6 @@
 [submodule "copernicus-training-cams"]
 	path = cams-training
 	url = https://github.com/ecmwf-projects/copernicus-training-cams
-[submodule "sketchbook-earth"]
-	path = sketchbook-earth
-	url = https://github.com/ECMWFCode4Earth/sketchbook-earth.git
 [submodule "c3s-training/sat-obs-ocean"]
 	path = c3s-training/sat-obs-ocean
 	url = https://github.com/ecmwf-training/c3s-training-submodule-sat-obs-ocean
